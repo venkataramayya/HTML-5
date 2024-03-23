@@ -1,0 +1,19 @@
+LIST AND TABLES
+1. in list we have to use different types we  can use different types by example order list and unorder list we camn use.
+ in order lsit we can use  tag  is<ol> </ol>
+ in ol we can use <li> </li> tag
+ <ol></ol>  we can use different types  those are types : A, !, I this types
+ short cut: ul>li*3
+    
+
+    *************** element vs inline ***********
+    theere are 2 types of elements in html
+    block element : It do not allow next element to be inside them.
+    headings, p, div, semantic element.. etc.  are block elements
+    Example: 
+
+
+
+
+    inline element
+    inline element allow the next element to appear on side or they may appear on other side
